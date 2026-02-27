@@ -1,0 +1,6 @@
+@blogapijlmv4_HostAddress = http://localhost:5048
+
+GET {{blogapijlmv4_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

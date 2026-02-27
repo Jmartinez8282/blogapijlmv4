@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "riVloZJcISY=",
+  "success": true,
+  "projectFilePath": "/Users/jmartinezlopez/Documents/Academy25-26/Level3/Week1/Day4/blogapijlmv4/blogapijlmv4.csproj",
+  "expectedPackageFiles": [
+    "/Users/jmartinezlopez/.nuget/packages/microsoft.aspnetcore.openapi/9.0.11/microsoft.aspnetcore.openapi.9.0.11.nupkg.sha512",
+    "/Users/jmartinezlopez/.nuget/packages/microsoft.openapi/1.6.23/microsoft.openapi.1.6.23.nupkg.sha512",
+    "/Users/jmartinezlopez/.nuget/packages/swashbuckle.aspnetcore/9.0.0/swashbuckle.aspnetcore.9.0.0.nupkg.sha512",
+    "/Users/jmartinezlopez/.nuget/packages/swashbuckle.aspnetcore.swagger/9.0.0/swashbuckle.aspnetcore.swagger.9.0.0.nupkg.sha512",
+    "/Users/jmartinezlopez/.nuget/packages/swashbuckle.aspnetcore.swaggergen/9.0.0/swashbuckle.aspnetcore.swaggergen.9.0.0.nupkg.sha512",
+    "/Users/jmartinezlopez/.nuget/packages/swashbuckle.aspnetcore.swaggerui/9.0.0/swashbuckle.aspnetcore.swaggerui.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
